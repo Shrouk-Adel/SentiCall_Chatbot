@@ -1,0 +1,17 @@
+streamlit
+torch
+transformers
+nltk
+joblib
+qalsadi
+langchain_experimental
+google-generativeai
+speechrecognition
+pydub
+pandas
+plotly
+seaborn
+matplotlib
+langchain-google-genai
+langchain
+streamlit-chat
